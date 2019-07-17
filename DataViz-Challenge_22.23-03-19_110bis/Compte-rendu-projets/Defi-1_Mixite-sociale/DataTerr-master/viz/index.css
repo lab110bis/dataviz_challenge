@@ -1,0 +1,12 @@
+#map {
+  width: 85%;
+  margin: auto;
+}
+body {
+  background-color: #212121;
+}
+h2 {
+  text-align: center;
+  color: #aaaaaa;
+  padding: 1em;
+}
